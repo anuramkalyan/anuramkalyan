@@ -15,14 +15,10 @@
 
 Built during my internship at TG TRANSCO. It tracks the availability of interstate transmission lines and generates monthly availability reports for billing. Contributed in reducing manual work and introducing automation features to the department.
 
-<p align="center">
-  <img width="800" alt="ITAMS dashboard" src="https://github.com/user-attachments/assets/98741b1d-5da3-4e67-9f38-079c145d3422" />
-</p>
+<p align="center"> <img width="500" alt="ITAMS dashboard" src="https://github.com/user-attachments/assets/98741b1d-5da3-4e67-9f38-079c145d3422" /> </p>
 
 ### 2. [Lyncus](https://github.com/anuramkalyan/lyncus)
 
 An offline malware triage tool for security analysts. Lyncus inspects a suspicious file without executing or uploading it: it computes MD5, SHA-1 and SHA-256 fingerprints, and is being extended to detect the true file type from magic bytes, parse Windows PE headers and assign a risk score. In active development.
 
-<p align="center">
-  <img width="800" alt="Lyncus" src="https://github.com/user-attachments/assets/d09de142-10ca-41e9-ac31-47331ea61a8c" />
-</p>
+<p align="center"> <img width="500" alt="Lyncus" src="https://github.com/user-attachments/assets/d09de142-10ca-41e9-ac31-47331ea61a8c" /> </p>
