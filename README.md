@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Your Name 👋</h1>
-
 <p align="center">
-  Software developer based in Your City, building <b>what you build</b> with <b>your main stack</b>.<br/>
-  Currently working on <b>current project or focus</b> and learning <b>what you're learning</b>.<br/>
-  Open to <b>internships / collaborations / freelance work</b>.
+  CS student from Hyderabad building full-stack web apps with <b>Spring Boot</b>, <b>React</b> and the <b>MERN / PERN</b> stack.<br/>
+  Currently interning at <b>TG TRANSCO</b>, Telangana's state electricity transmission utility, and diving into <b>AI/ML</b>.<br/>
+  Open to <b>internships</b>, <b>collaborations</b> and <b>freelance work</b>.
 </p>
 
 <p align="center">
