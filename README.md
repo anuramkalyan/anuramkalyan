@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   CS student from Hyderabad building full-stack web apps with <b>Spring Boot</b>, <b>React</b> and the <b>MERN / PERN</b> stack.<br/>
   Currently interning at <b>TG TRANSCO</b>, Telangana's state electricity transmission utility, and diving into <b>AI/ML</b>.<br/>
   Open to <b>internships</b>, <b>collaborations</b> and <b>freelance work</b>.
